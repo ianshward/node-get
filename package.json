@@ -20,7 +20,8 @@
         "mocha": ">= 0.11",
         "jshint": "0.2.x",
         "underscore": "1.2.x",
-        "docco": "0.3.x"
+        "docco": "0.3.x",
+        "agentkeepalive": "0.1.x"
     },
     "engines": {
         "node": ">= 0.3.6"
